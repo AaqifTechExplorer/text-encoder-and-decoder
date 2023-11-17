@@ -2,29 +2,29 @@
 In this project you can encode and also decode any text by the rules given below.<br>
 I hope you will like my project<br>
 THANK YOU.<br>
-# Here is the rules...
-    "a" = "g"<br>
-    "b" = "l"<br>
-    "c" = "k"<br>
-    "d" = "j"<br>
-    "e" = "i"<br>
-    "f" = "h"<br>
-    "g" = "m"<br>
-    "h" = "f"<br>
-    "j" = "d"<br>
-    "k" = "c"<br>
-    "s" = "u"<br>
-    "t" = "n"<br>
-    "l" = "b"<br>
-    "m" = "a"<br>
-    "n" = "z"<br>
-    "o" = "y"<br>
-    "p" = "x"<br>
-    "q" = "w"<br>
-    "r" = "v"<br>
-    "u" = "s"<br>
-    "w" = "r"<br>
-    "v" = "q"<br>
-    "x" = "p"<br>
-    "y" = "o"<br>
-    "z" = "t"<br>
+# Here is the rules...<br>
+    "a" = "g"
+    "b" = "l"
+    "c" = "k"
+    "d" = "j"
+    "e" = "i"
+    "f" = "h"
+    "g" = "m"
+    "h" = "f"
+    "j" = "d"
+    "k" = "c"
+    "s" = "u"
+    "t" = "n"
+    "l" = "b"
+    "m" = "a"
+    "n" = "z"
+    "o" = "y"
+    "p" = "x"
+    "q" = "w"
+    "r" = "v"
+    "u" = "s"
+    "w" = "r"
+    "v" = "q"
+    "x" = "p"
+    "y" = "o"
+    "z" = "t"
