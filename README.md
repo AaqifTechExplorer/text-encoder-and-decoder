@@ -1,7 +1,7 @@
-Hi this is my first project on github.<br>
-In this project you can encode and also decode any text by the rules given below.<br>
-I hope you will like my project<br>
-THANK YOU.
+#Hi this is my first project on github.<br>
+#In this project you can encode and also decode any text by the rules given below.<br>
+#I hope you will like my project<br>
+#THANK YOU.<br>
     "a" = "g"
     "b" = "l"
     "c" = "k"
