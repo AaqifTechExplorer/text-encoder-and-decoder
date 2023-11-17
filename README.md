@@ -2,7 +2,7 @@
 In this project you can encode and also decode any text by the rules given below.<br>
 I hope you will like my project<br>
 THANK YOU.<br>
-# Here is the rules...<br>
+# Here is the rules...
     "a" = "g"<br>
     "b" = "l"<br>
     "c" = "k"<br>
