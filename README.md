@@ -2,6 +2,8 @@
 In this project you can encode and also decode any text by the rules given below.<br>
 I hope you will like my project<br>
 THANK YOU.<br>
+Note: You can only encode and decode such words or sentences<br>
+where there are only letters but no numbers.<br>
 # Here is the rules...<br>
     "a" = "g"
     "b" = "l"
